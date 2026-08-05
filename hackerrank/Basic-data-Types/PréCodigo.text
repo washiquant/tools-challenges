@@ -1,0 +1,10 @@
+Como resolver esse problema ?
+basaicamente, o exercicio pede que recebamos um inteiro
+esse inteiro vai significar o numero de açoes que seram feitas
+dtemos que cchar um intervalo entre esses comandos para ser inseridos ass impressoes ( os prints)
+dentro desse exercicio temos que atribiuir aos comandos selcionados açoes
+como append = lista.append()
+
+a questao é como eu transformo o texto colocado pelo input em comando
+quaal estrutura de dados eu uso ?
+
