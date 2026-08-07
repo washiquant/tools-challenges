@@ -1,6 +1,6 @@
 # 🚀 Python Challenges
 
-Este é o meu laboratório de lógica e algoritmos em Python. Aqui documento minha evolução diária, focando na resolução de problemas, eficiência de código e aplicação de boas práticas de programação.
+Este é o meu laboratório de lógica e algoritmos em Python | SQL |. Aqui documento minha evolução diária, focando na resolução de problemas, eficiência de código e aplicação de boas práticas de programação.
 Além dos desafios de lógica, também estou documentando meus estudos que são feitos a partir de livros, todos estão separados por repositórios com seus devidos títulos.
 
 ## 📚 Estrutura do Repositório
