@@ -1,8 +1,8 @@
 def count_substring(string, sub_string):
-    string = input().strip()
-    sub_string = input().strip()
-    count = count_substring(string, sub_string)
-    print(count)
-    for i in range(0, len(string)):
-        print(string[i])
-count_substring("ABCDCDC","CDC")
+    string = string.strip()
+    sub_string = sub_string.strip()
+    vezes_repetidas = []
+    for i in range(len(string) - len(sub_string) +1):
+        if string[i:i+len(sub_string)] == sub_string :
+            vezes_repetidas.append(i)
+    return len(vezes_repetidas)
